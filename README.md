@@ -31,7 +31,7 @@ This repository supports my learning journey through the **SC-200** and **AZ-500
 
 ## 🧠 Certifications in Progress
 
-- ✅ **[SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/sc-200/)**  
+- ✅ **[SC-200: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/)**  
 - 🔄 **[AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)**
 
 ---
