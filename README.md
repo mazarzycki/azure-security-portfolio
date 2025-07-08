@@ -12,7 +12,7 @@ This repository supports my learning journey through the **SC-200** and **AZ-500
 - Build and publish real-world detection use cases and automation workflows
 - Document lessons learned, challenges faced, and implementation strategies
 - Share practical blog content for visibility and contribution
-- Demonstrate growth in Azure Security over time (2025–2027)
+- Demonstrate growth in Azure Security over time (2025–2026)
 
 ---
 
