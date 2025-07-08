@@ -24,8 +24,8 @@ This repository supports my learning journey through the **SC-200** and **AZ-500
 | [`kql-detection-rules/`](./kql-detection-rules) | A collection of KQL detection rules with explanations and MITRE mappings |
 | [`sentinel-playbooks/`](./sentinel-playbooks) | Automated response playbooks (Logic App JSON exports + notes) |
 | [`defender-xdr/`](./defender-xdr) | Triage flows, Defender alerts workflow, and threat investigation notes |
-| [`blog-posts/`](./blog-posts) | Markdown drafts of blog posts published on LinkedIn, Medium, or GitHub Pages |
-| [`roadmap/`](./roadmap) | 90-day plans, progress logs, study sprints, and weekly review reflections |
+| [`blog-posts/`](./blog-posts) | Markdown drafts of blog posts published on LinkedIn, Medium, and Dev.to|
+| [`roadmap/`](./roadmap) | study plans, progress logs, study sprints, and weekly review reflections |
 
 ---
 
