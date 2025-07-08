@@ -36,7 +36,7 @@ This repository supports my learning journey through the **SC-200** and **AZ-500
 
 ---
 
-## ✍️ Featured Blog Posts
+## ✍️ Featured Blog Posts (in progress)
 
 - *What I Learned Setting Up Microsoft Sentinel From Scratch*
 - *Top 5 KQL Queries Every SOC Analyst Should Know*
